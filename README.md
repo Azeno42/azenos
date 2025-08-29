@@ -6,6 +6,7 @@ AzenoOS is a LineageOS-based, Work-In-Progress (WIP) operating system designed t
 - Magisk support (v30.2 version pre-installed)
 - NikGapps support (Full version pre-installed)
 - Custom bootanimation and sounds
+- Language support in Recovery Mode
 - More features in my mind coming in future releases
 
 **You can find the changelog and news in my XDA post**
