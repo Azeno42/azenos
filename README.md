@@ -7,6 +7,8 @@ AzenoOS is a LineageOS-based, Work-In-Progress (WIP) operating system designed t
 - NikGapps support (Full version pre-installed)
 - Custom bootanimation and sounds
 - Language support in Recovery Mode
+- Nova launcher (Prime v8.1.1 version pre-installed)
+- Kustom Widget (Pro Unlocked v3.79 pre-installed)
 - More features in my mind coming in future releases
 
 **You can find the changelog and news in my XDA post**
