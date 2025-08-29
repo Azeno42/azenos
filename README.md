@@ -9,7 +9,7 @@ AzenoOS is a LineageOS-based, Work-In-Progress (WIP) operating system designed t
 - Language support in Recovery Mode
 - Nova launcher (Prime v8.1.1 version pre-installed)
 - Kustom Widget (Pro Unlocked v3.79 version pre-installed)
-- More features in my mind coming in future releases
+- More features in development for future releases
 
 **You can find the changelog and news in my XDA post**
 [https://xdaforums.com/t/rom-stable-azenoos-0-1-for-galaxy-s20-fe-4g-5g-snapdragon.4756952/](https://xdaforums.com/t/rom-stable-azenoos-0-1-for-galaxy-s20-fe-4g-5g-snapdragon.4756952/)
