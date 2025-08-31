@@ -2,7 +2,7 @@
 AzenoOS is a LineageOS-based, Work-In-Progress (WIP) operating system designed to provide Samsung users with a better AOSP experience.
 
 # AzenoOS Features
-- Based from LineageOS 22.2 (20250830)w
+- Based from LineageOS 22.2 (20250830)
 - Magisk support (v30.2 version pre-installed)
 - NikGapps support (Full version pre-installed)
 - Language support in Recovery Mode
